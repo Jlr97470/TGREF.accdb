@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "DEBITEURTMP_DEBITEUR",
+    "Attributes": 3,
+    "Table": "DEBITEUR",
+    "ForeignTable": "TMP_DEBITEUR",
+    "Fields": [
+      {
+        "Name": "Déb_Code",
+        "ForeignName": "TDéb_Code"
+      }
+    ]
+  }
+}

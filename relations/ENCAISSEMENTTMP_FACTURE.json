@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "ENCAISSEMENTTMP_FACTURE",
+    "Attributes": 257,
+    "Table": "ENCAISSEMENT",
+    "ForeignTable": "TMP_FACTURE",
+    "Fields": [
+      {
+        "Name": "Enc_ID",
+        "ForeignName": "TFac_Enc_ID"
+      }
+    ]
+  }
+}

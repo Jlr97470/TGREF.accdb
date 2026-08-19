@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "CLIENTTMP_REPRESENTANT_CLIENT",
+    "Attributes": 256,
+    "Table": "CLIENT",
+    "ForeignTable": "TMP_REPRESENTANT_CLIENT",
+    "Fields": [
+      {
+        "Name": "Cli_Code",
+        "ForeignName": "TRCCli_Code"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [CODE_GESTION] (
+  [CG_Code] VARCHAR (2) CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [CG_Libellé] VARCHAR (30) CONSTRAINT [CleCG_Libellé] UNIQUE,
+  [CG_Code_Groupe] SHORT,
+  [CG_Code_Action] SHORT
+)

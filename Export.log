@@ -1,0 +1,312 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+TGREF.accdb
+VCS Version 4.1.2
+Full Path: D:\MES_SOURCES\ACCESS\SOURCES\DELTAINFORMATIQUE\ACCESS_2007-2016\GREF\TGREF.accdb
+Export Folder: D:\MES_SOURCES\GITHUB\TGREF.accdb\
+Performing Full Export
+19/08/2026 13:46:51
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No saved specs found in this database.
+No modules found in this database.
+No commandbars found in this database.
+No shared images found in this database.
+No imex specs found in this database.
+No queries found in this database.
+No forms found in this database.
+No macros found in this database.
+No reports found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  TGREF.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Access9
+[1]
+-------------------------------------
+Exporting vbe references...   
+  DAO
+[4]
+-------------------------------------
+Exporting proj properties...  
+  Current Project Properties (Access)
+[2]
+-------------------------------------
+Exporting themes...           
+  Thème Office
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[36]
+-------------------------------------
+Exporting tables...           
+  ADRESSE_CLIENT
+    Sanitized in 0,002 seconds.
+  ADRESSE_CLIENT (SQL)
+  ADRESSE_DEBITEUR
+    Sanitized in 0,001 seconds.
+  ADRESSE_DEBITEUR (SQL)
+  ADRESSE_TYPE
+    Sanitized in 0,000 seconds.
+  ADRESSE_TYPE (SQL)
+  CLIENT
+    Sanitized in 0,002 seconds.
+  CLIENT (SQL)
+  CLIENT_CONTRAT
+    Sanitized in 0,001 seconds.
+  CLIENT_CONTRAT (SQL)
+  CLIENT_GROUPE
+    Sanitized in 0,000 seconds.
+  CLIENT_GROUPE (SQL)
+  CLIENT_TYPE
+    Sanitized in 0,000 seconds.
+  CLIENT_TYPE (SQL)
+  CODE_ACTION
+    Sanitized in 0,000 seconds.
+  CODE_ACTION (SQL)
+  CODE_GESTION
+    Sanitized in 0,001 seconds.
+  CODE_GESTION (SQL)
+  CODE_GROUPE
+    Sanitized in 0,000 seconds.
+  CODE_GROUPE (SQL)
+  DEBITEUR
+    Sanitized in 0,002 seconds.
+  DEBITEUR (SQL)
+  DEBITEUR_ECHEANCE
+    Sanitized in 0,001 seconds.
+  DEBITEUR_ECHEANCE (SQL)
+  ENCAISSEMENT
+    Sanitized in 0,001 seconds.
+  ENCAISSEMENT (SQL)
+  ENCAISSEMENT_MODE
+    Sanitized in 0,000 seconds.
+  ENCAISSEMENT_MODE (SQL)
+  ENCAISSEMENT_TYPE
+    Sanitized in 0,001 seconds.
+  ENCAISSEMENT_TYPE (SQL)
+  ENCAISSEUR
+    Sanitized in 0,001 seconds.
+  ENCAISSEUR (SQL)
+  FACTURE
+    Sanitized in 0,001 seconds.
+  FACTURE (SQL)
+  FACTURE_DETAIL
+    Sanitized in 0,001 seconds.
+  FACTURE_DETAIL (SQL)
+  FRAIS
+    Sanitized in 0,002 seconds.
+  FRAIS (SQL)
+  FRAIS_GRILLE
+    Sanitized in 0,000 seconds.
+  FRAIS_GRILLE (SQL)
+  FRAIS_TRANS
+    Sanitized in 0,001 seconds.
+  FRAIS_TRANS (SQL)
+  FRAIS_TRANS_GRILLE
+    Sanitized in 0,000 seconds.
+  FRAIS_TRANS_GRILLE (SQL)
+  GROUPE
+    Sanitized in 0,001 seconds.
+  GROUPE (SQL)
+  MONNAIE
+    Sanitized in 0,000 seconds.
+  MONNAIE (SQL)
+  MOTIF_IMPAYE
+    Sanitized in 0,001 seconds.
+  MOTIF_IMPAYE (SQL)
+  MOTIF_IMPAYE_GRILLE
+    Sanitized in 0,000 seconds.
+  MOTIF_IMPAYE_GRILLE (SQL)
+  OPERATEUR
+    Sanitized in 0,001 seconds.
+  OPERATEUR (SQL)
+  PARAMETRE_GREF
+    Sanitized in 0,001 seconds.
+  PARAMETRE_GREF (SQL)
+  REGLEMENT
+    Sanitized in 0,001 seconds.
+  REGLEMENT (SQL)
+  REGLEMENT_DETAIL
+    Sanitized in 0,001 seconds.
+  REGLEMENT_DETAIL (SQL)
+  RELANCE
+    Sanitized in 0,000 seconds.
+  RELANCE (SQL)
+  REPRESENTANT
+    Sanitized in 0,001 seconds.
+  REPRESENTANT (SQL)
+  TAUX
+    Sanitized in 0,001 seconds.
+  TAUX (SQL)
+  TAUX_GRILLE
+    Sanitized in 0,000 seconds.
+  TAUX_GRILLE (SQL)
+  TMP_CLIENT
+    Sanitized in 0,000 seconds.
+  TMP_CLIENT (SQL)
+  TMP_DEBITEUR
+    Sanitized in 0,000 seconds.
+  TMP_DEBITEUR (SQL)
+  TMP_FACTURE
+    Sanitized in 0,000 seconds.
+  TMP_FACTURE (SQL)
+  TMP_IRRECOUVRABLE
+    Sanitized in 0,000 seconds.
+  TMP_IRRECOUVRABLE (SQL)
+  TMP_REGLEMENT
+    Sanitized in 0,000 seconds.
+  TMP_REGLEMENT (SQL)
+  TMP_RELANCE
+    Sanitized in 0,001 seconds.
+  TMP_RELANCE (SQL)
+  TMP_REPRESENTANT_CLIENT
+    Sanitized in 0,000 seconds.
+  TMP_REPRESENTANT_CLIENT (SQL)
+[41]
+-------------------------------------
+Exporting relations...        
+  {02EF1AC0-0807-4EDB-8D02-905B5B29090E}
+  {339B0D87-F564-46F4-A6E6-F123109E63D2}
+  {5122897A-D07B-4CA0-88EE-334B599E85CD}
+  {A2D2E2C6-A021-4FA0-97D7-BB039C898B62}
+  {A75CB6C3-B169-4357-A93B-1DFD3FC98D48}
+  ADRESSE_TYPEADRESSE_DEBITEUR
+  CLIENT_GROUPECLIENT
+  CLIENT_GROUPECLIENT_GROUPE
+  CLIENT_TYPECLIENT
+  CLIENTADRESSE_CLIENT
+  CLIENTDEBITEUR
+  CLIENTFACTURE
+  CLIENTREGLEMENT
+  CLIENTTMP_CLIENT
+  CLIENTTMP_REPRESENTANT_CLIENT
+  CODE_ACTIONCODE_GESTION
+  CODE_ACTIONRELANCE
+  CODE_GESTIONDEBITEUR
+  CODE_GESTIONMOTIF_IMPAYE
+  CODE_GROUPECODE_GESTION
+  DEBITEURADRESSE_DEBITEUR
+  DEBITEURFACTURE_DETAIL
+  DEBITEURREGLEMENT_DETAIL
+  DEBITEURTMP_DEBITEUR
+  DEBITEURTMP_IRRECOUVRABLE
+  ENCAISSEMENT_MODEENCAISSEMENT_TYPE
+  ENCAISSEMENT_MODEFACTURE_DETAIL
+  ENCAISSEMENT_MODEREGLEMENT_DETAIL
+  ENCAISSEMENT_TYPEENCAISSEMENT
+  ENCAISSEMENTTMP_FACTURE
+  ENCAISSEMENTTMP_REGLEMENT
+  FACTURE_DETAILENCAISSEMENT
+  FACTUREFACTURE_DETAIL
+  FRAIS_GRILLECLIENT
+  FRAIS_GRILLEFRAIS
+  FRAIS_TRANS_GRILLECLIENT
+  FRAIS_TRANS_GRILLEFRAIS_TRANS
+  GROUPECLIENT
+  MONNAIEDEBITEUR
+  MONNAIEDEBITEUR1
+  MONNAIEENCAISSEMENT
+  MONNAIEFACTURE
+  MONNAIEFACTURE_DETAIL
+  MONNAIEREGLEMENT
+  MONNAIEREGLEMENT_DETAIL
+  MOTIF_IMPAYE_GRILLEGROUPE
+  MOTIF_IMPAYE_GRILLEMOTIF_IMPAYE
+  OPERATEURDEBITEUR_ECHEANCE
+  REGLEMENT_DETAILENCAISSEMENT
+  REGLEMENTREGLEMENT_DETAIL
+  RELANCEDEBITEUR
+  REPRESENTANTCLIENT
+  REPRESENTANTTMP_REPRESENTANT_CLIENT
+  TAUX_GRILLECLIENT
+  TAUX_GRILLETAUX
+  TAUXRELANCE
+[56]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[1]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+Done. (1,07 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Tables                        41        0,40
+Relations                     56        0,27
+DB Properties                 36        0,05
+Doc Properties                1         0,05
+Project                       1         0,03
+Nav Pane Groups               1         0,03
+VBE References                4         0,02
+Themes                        1         0,02
+Proj Properties               2         0,02
+VB Project                    1         0,01
+Table Data Macros             0         0,01
+DB Connections                0         0,01
+Hidden Attributes             0         0,01
+Shared Images                 0         0,00
+IMEX Specs                    0         0,00
+Table Data                    0         0,00
+Queries                       0         0,00
+CommandBars                   0         0,00
+VBE Forms                     0         0,00
+Saved Specs                   0         0,00
+Reports                       0         0,00
+Macros                        0         0,00
+Modules                       0         0,00
+Forms                         0         0,00
+--------------------------------------------------
+TOTALS:                       144       0,92
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Convert to JSON               1135      0,19
+Increment Progress            349       0,15
+Scan DB Objects               1         0,10
+App.ExportXML()               41        0,10
+Save Table SQL                41        0,07
+Get File Property Hash        210       0,05
+Console Updates               3         0,03
+Write File                    145       0,03
+Clear Files by Ext            6         0,03
+Clear Orphaned Files          12        0,02
+modFileAccess.VerifyPath      187       0,02
+Check for linked table        41        0,02
+Compute SHA256                324       0,01
+Format XML                    39        0,01
+Sanitize XML                  41        0,01
+Parse JSON                    1         0,01
+Get Modified Date             187       0,01
+Delete File                   43        0,01
+Read File Bytes               42        0,00
+Read File                     42        0,00
+Quick Count Files             1         0,00
+Parse JSON ISO Date           107       0,00
+Format XML (alt)              2         0,00
+Quick Count Objects           1         0,00
+Close Open Objects            1         0,00
+Export Theme                  1         0,00
+modFileAccess.GetUncPath      2         0,00
+--------------------------------------------------
+Other Operations                        0,19
+--------------------------------------------------
+
+

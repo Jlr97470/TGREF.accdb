@@ -1,0 +1,4 @@
+﻿CREATE TABLE [TAUX_GRILLE] (
+  [TxG_Grille] LONG CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [TxG_Grille_Libellé] VARCHAR (50) CONSTRAINT [CleTxG_Grille_Libellé] UNIQUE
+)

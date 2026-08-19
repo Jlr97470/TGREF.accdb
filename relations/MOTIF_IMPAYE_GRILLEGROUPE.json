@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "MOTIF_IMPAYE_GRILLEGROUPE",
+    "Attributes": 256,
+    "Table": "MOTIF_IMPAYE_GRILLE",
+    "ForeignTable": "GROUPE",
+    "Fields": [
+      {
+        "Name": "MIG_Grille",
+        "ForeignName": "Grp_Grille_MotifImp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "CODE_GROUPECODE_GESTION",
+    "Attributes": 256,
+    "Table": "CODE_GROUPE",
+    "ForeignTable": "CODE_GESTION",
+    "Fields": [
+      {
+        "Name": "CG_Code",
+        "ForeignName": "CG_Code_Groupe"
+      }
+    ]
+  }
+}

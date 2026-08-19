@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "FRAIS_TRANS_GRILLECLIENT",
+    "Attributes": 256,
+    "Table": "FRAIS_TRANS_GRILLE",
+    "ForeignTable": "CLIENT",
+    "Fields": [
+      {
+        "Name": "Frt_Grille",
+        "ForeignName": "Cli_Grille_FTrans"
+      }
+    ]
+  }
+}

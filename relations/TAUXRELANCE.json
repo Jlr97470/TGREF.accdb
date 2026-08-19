@@ -1,0 +1,22 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "TAUXRELANCE",
+    "Attributes": 2,
+    "Table": "TAUX",
+    "ForeignTable": "RELANCE",
+    "Fields": [
+      {
+        "Name": "Tx_Code_Action",
+        "ForeignName": "Rel_Code_Action"
+      },
+      {
+        "Name": "Tx_N°",
+        "ForeignName": "Rel_N°"
+      }
+    ]
+  }
+}

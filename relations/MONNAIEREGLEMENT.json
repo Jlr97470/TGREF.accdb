@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "MONNAIEREGLEMENT",
+    "Attributes": 256,
+    "Table": "MONNAIE",
+    "ForeignTable": "REGLEMENT",
+    "Fields": [
+      {
+        "Name": "Mon_Id",
+        "ForeignName": "Reg_Montant_mo"
+      }
+    ]
+  }
+}

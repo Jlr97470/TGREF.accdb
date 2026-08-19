@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "CLIENT_TYPECLIENT",
+    "Attributes": 256,
+    "Table": "CLIENT_TYPE",
+    "ForeignTable": "CLIENT",
+    "Fields": [
+      {
+        "Name": "CT_Id",
+        "ForeignName": "Cli_Type"
+      }
+    ]
+  }
+}

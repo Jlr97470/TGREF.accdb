@@ -1,0 +1,4 @@
+﻿CREATE TABLE [FRAIS_TRANS_GRILLE] (
+  [Frt_Grille] LONG CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Frt_Grille_Libellé] VARCHAR (50)
+)

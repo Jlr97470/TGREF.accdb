@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "OPERATEURDEBITEUR_ECHEANCE",
+    "Attributes": 256,
+    "Table": "OPERATEUR",
+    "ForeignTable": "DEBITEUR_ECHEANCE",
+    "Fields": [
+      {
+        "Name": "Ope_Code",
+        "ForeignName": "De_Ope_Code"
+      }
+    ]
+  }
+}

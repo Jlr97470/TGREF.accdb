@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "{A75CB6C3-B169-4357-A93B-1DFD3FC98D48}",
+    "Attributes": 4096,
+    "Table": "DEBITEUR",
+    "ForeignTable": "DEBITEUR_ECHEANCE",
+    "Fields": [
+      {
+        "Name": "Déb_Code",
+        "ForeignName": "De_Code_Débiteur"
+      }
+    ]
+  }
+}

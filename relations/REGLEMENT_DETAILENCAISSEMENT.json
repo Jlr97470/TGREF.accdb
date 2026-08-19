@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "REGLEMENT_DETAILENCAISSEMENT",
+    "Attributes": 256,
+    "Table": "REGLEMENT_DETAIL",
+    "ForeignTable": "ENCAISSEMENT",
+    "Fields": [
+      {
+        "Name": "RegD_Id",
+        "ForeignName": "Enc_RegD_Id"
+      }
+    ]
+  }
+}

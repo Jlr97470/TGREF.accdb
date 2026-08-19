@@ -1,0 +1,6 @@
+﻿CREATE TABLE [TMP_REPRESENTANT_CLIENT] (
+  [TRCRep_Code] VARCHAR (2),
+  [TRCCli_Code] VARCHAR (5),
+  [TRC_Flag] BIT,
+   CONSTRAINT [PrimaryKey] PRIMARY KEY ([TRCRep_Code], [TRCCli_Code])
+)
